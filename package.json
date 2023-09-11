@@ -12,7 +12,9 @@
     "format": "prettier --write 'src/**/*.{js,jsx,ts,tsx}'"
   },
   "husky": {
-    "hooks": {}
+    "hooks": {
+      
+    }
   },
   "browserslist": {
     "production": [
